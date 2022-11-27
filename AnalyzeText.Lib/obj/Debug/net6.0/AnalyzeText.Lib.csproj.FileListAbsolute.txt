@@ -1,0 +1,12 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\bin\Debug\net6.0\AnalyzeText.Lib.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\bin\Debug\net6.0\AnalyzeText.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\bin\Debug\net6.0\AnalyzeText.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\AnalyzeText.Lib.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\AnalyzeText.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\AnalyzeText.Lib.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\AnalyzeText.Lib.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\AnalyzeText.Lib.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\AnalyzeText.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\refint\AnalyzeText.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\AnalyzeText.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\_WebApps\AnalyzeTextWebApp\AnalyzeText.Lib\obj\Debug\net6.0\ref\AnalyzeText.Lib.dll

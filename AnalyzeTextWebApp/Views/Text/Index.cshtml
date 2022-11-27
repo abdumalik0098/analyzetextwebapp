@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Text Analyze Page";
+}
+
+<div class="container">
+    
+    <div class="row col-md-6">
+        <form method="post" asp-action="EmotionTest">
+            <div class="input-group">
+                <textarea class="form-control" name="usertext"></textarea>
+            </div>
+            <br />
+            <button type="submit" class="btn btn-primary mt-2">Отправить</button>
+        </form>
+    </div>
+</div>

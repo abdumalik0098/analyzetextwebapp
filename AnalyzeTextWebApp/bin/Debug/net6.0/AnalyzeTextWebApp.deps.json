@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AnalyzeTextWebApp/1.0.0": {
+        "dependencies": {
+          "AnalyzeText.Lib": "1.0.0"
+        },
+        "runtime": {
+          "AnalyzeTextWebApp.dll": {}
+        }
+      },
+      "AnalyzeText.Lib/1.0.0": {
+        "runtime": {
+          "AnalyzeText.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnalyzeTextWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnalyzeText.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
